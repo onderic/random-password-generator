@@ -26,4 +26,3 @@ This will run the test functions and report the results.
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-I hope this helps! Let me know if you have any questions.
