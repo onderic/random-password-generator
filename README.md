@@ -13,15 +13,13 @@ The generate_password method generates a random password using a combination of 
 
 
 ## Tests
-
-
 To run the tests for this class, you will need to have the pytest module installed. You can install pytest using pip:
 
-pip install pytest
+ pip install pytest
 
 Once pytest is installed, you can run the tests using the pytest command:
 
-pytest test_password_generator.py
+ pytest test_password_generator.py
 
 This will run the test functions and report the results.
 
